@@ -1,13 +1,13 @@
 Copyright
 ```text
 Copyright 2022 ZhengPu Shi
-  This file is part of coqext. It is distributed under the MIT
+  This file is part of CoqExt. It is distributed under the MIT
   "expat license". You should have recieved a LICENSE file with it.
 ```
 
-# coqext
+# CoqExt
 Extension for Coq stdandard library.
-https://github.com/zhengpushi/coqext
+https://github.com/zhengpushi/CoqExt
 
 
 ## 1. Introduction

@@ -1,11 +1,11 @@
 # ===================================================================
 # Copyright 2022 ZhengPu Shi
-#  This file is part of coqext. It is distributed under the MIT
+#  This file is part of CoqExt. It is distributed under the MIT
 #  "expat license". You should have recieved a LICENSE file with it.
 # ===================================================================
 
 -I .
--R . coqext
+-R . CoqExt
 
 -arg -w -arg -notation-overridden
 -arg -w -arg -deprecated-hint-without-locality
@@ -13,7 +13,6 @@
 -arg -w -arg -ambiguous-paths
 -arg -w -arg -local-declaration
 
-# ====== coq-ext ====================
 BasicConfig.v
 FuncExt.v
 TupleExt.v
